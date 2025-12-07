@@ -1,0 +1,20 @@
+[
+  {
+    "id": "hotel_bali_01",
+    "name": "Bali Seaside Hotel",
+    "location": "Bali, Kuta",
+    "price_per_night": 450000,
+    "stars": 4,
+    "amenities": ["wifi","breakfast","pool"],
+    "available_rooms": 5
+  },
+  {
+    "id": "hotel_bali_02",
+    "name": "Bamboo Retreat",
+    "location": "Bali, Ubud",
+    "price_per_night": 650000,
+    "stars": 4.5,
+    "amenities": ["wifi","breakfast","spa"],
+    "available_rooms": 3
+  }
+]

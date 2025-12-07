@@ -1,0 +1,16 @@
+[
+  {
+    "id": "activity_snorkel_ubud",
+    "title": "Snorkeling Trip Nusa Lembongan",
+    "location": "Nusa Lembongan",
+    "duration_hours": 6,
+    "price": 350000
+  },
+  {
+    "id": "activity_hike_bali",
+    "title": "Sunrise Hike Mount Batur",
+    "location": "Kintamani",
+    "duration_hours": 5,
+    "price": 250000
+  }
+]
